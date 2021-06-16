@@ -1,0 +1,12 @@
+.mainWrap {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+}
+
+.timeCounter {
+    font-size: 84px;
+    color: #37474f;
+}
