@@ -1,4 +1,4 @@
-# react_exercise_third
+# react_exercise_first
 
 Time app
 
