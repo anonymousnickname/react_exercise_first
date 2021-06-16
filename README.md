@@ -1,3 +1,7 @@
+# react_exercise_third
+
+Time app
+
 # Setup
 
 npm install
